@@ -15,6 +15,6 @@ pip install -r requirements.txt
 
 # Achieved Result
 
-![Home Page] (/homepage.png)
+![Home Page](/homepage.png)
 
-![Game Over] (/gameover.png)
+![Game Over](/gameover.png)
